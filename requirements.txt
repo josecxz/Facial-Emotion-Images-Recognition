@@ -1,0 +1,10 @@
+matplotlib
+numpy
+pandas
+seaborn
+Pillow
+scikit-learn
+tensorflow
+
+# Optional: add jupyter if you run notebooks locally
+# jupyter
